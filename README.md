@@ -1,2 +1,2 @@
 # test-repo
-This ia a Demo for Git &amp;  Github
+This ia a Demo for Git &amp;  Github.
